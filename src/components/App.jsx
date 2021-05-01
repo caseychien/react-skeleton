@@ -1,8 +1,5 @@
-import { Component } from 'react';
+const App = () => {
+  return 'Hello World!';
+};
 
-class App extends Component {
-  render() {
-    return 'Hello World';
-  }
-}
 export default App;
